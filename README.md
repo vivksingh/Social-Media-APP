@@ -31,7 +31,7 @@ Welcome to the **Chat App** project! This is a real-time chat application built 
 ## Installation 💻
 
 1. Clone this repository:
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/vivksingh/Social-Media-APP.git;
 
 2. Navigate to the project directory:
     cd "Social Media App"
